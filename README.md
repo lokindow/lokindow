@@ -78,7 +78,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/22vnutr5r4ahx7bxrf23kdj5i">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+    <img src="https://i0.wp.com/gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2022/01/spotify-1280x720-1.jpg?resize=800%2C450&ssl=1" alt="Spotify recently played"  />
   </a>
 </div>
 
