@@ -64,12 +64,6 @@
 
 ###
 
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/lokindow/lokindow/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img height="300" src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47smbeicr7gmfrb2e0b3cdfgrtcl8df2msz36uzwju&rid=giphy.gif&ct=g"  />
 </div>
