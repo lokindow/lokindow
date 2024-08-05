@@ -1,4 +1,4 @@
-<h2 align="left">𝕍𝕚𝕔𝕥𝕠𝕣 𝔽𝕠𝕣𝕟𝕚𝕥𝕒𝕟𝕚</h2>
+<h2 align="left">Victor Fornitani</h2>
 
 ###
 
@@ -9,7 +9,9 @@
 
 ###
 
-<img align="right" height="155" src="https://64.media.tumblr.com/579b6ba60ad4ce790b3f368973d71c5b/tumblr_nu6zzjrpg11t6rnioo1_r1_1280.gifv" alt="Animated gif" />
+<div align="right">
+  <img height="155" src="https://64.media.tumblr.com/579b6ba60ad4ce790b3f368973d71c5b/tumblr_nu6zzjrpg11t6rnioo1_r1_1280.gifv" alt="Animated gif" />
+</div>
 
 ###
 
@@ -61,7 +63,7 @@
   <a href="https://www.instagram.com/victor_fornitani/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
   </a>
-  <a href="https://br.linkedin.com/in/victor-fornitani" target="_blank">
+  <a href="https://www.linkedin.com/in/victor-fornitani" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
 </div>
